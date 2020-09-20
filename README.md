@@ -12,4 +12,4 @@
 过期时间：
 
 运行截图：
-[!](https://github.com/start-cat/scan_whois/blob/master/Xnip2020-09-20_16-27-54.jpg)
+[!](Xnip2020-09-20_16-27-54.jpg)
