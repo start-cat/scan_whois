@@ -9,4 +9,7 @@
 注册人： 
 注册邮箱： 
 注册时间： 
-过期时间： 
+过期时间：
+
+运行截图：
+[!](https://github.com/start-cat/scan_whois/blob/master/Xnip2020-09-20_16-27-54.jpg)
